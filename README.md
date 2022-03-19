@@ -18,6 +18,5 @@ I am a passionate full-stack developer and student. <br>
 
 ## My Statistics
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neel06shah&show_icons=true&locale=en&layout=compact" alt="neel06shah" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neel06shah&show_icons=true&locale=en" alt="neel06shah" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neel06shah&show_icons=true&locale=en&layout=compact" alt="neel06shah" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=neel06shah&show_icons=true&locale=en" alt="neel06shah" /></p>
